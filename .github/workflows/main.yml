@@ -25,14 +25,30 @@ jobs:
       # flutter 초기화
       - name: Install packages
         run: flutter pub get
-  
+        
+      # 테스트 코드 실행
+      - name: Test
+        run: flutter test
+
+  lint_ci:
+      runs-on: ubuntu-latest
+      
+      steps:
+      # flutter 프로젝트 실행 관련
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: 3.x
+          
+      # flutter 초기화
+      - name: Install packages
+        run: flutter pub get
+      
       # Linter
       - name: Linter
         run: flutter analyze
       
-      # 테스트 코드 실행
-      - name: Test
-        run: flutter test
+
     
   
   
