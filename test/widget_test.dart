@@ -12,6 +12,6 @@ import 'package:ci_test/main.dart';
 
 void main() {
   test('Counter increments smoke test', () {
-    expect(0, 0);
+    expect(0, 1);
   });
 }
