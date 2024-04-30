@@ -1,0 +1,38 @@
+# 이벤트
+name: CI
+
+# 언제 실행되는 지
+on: 
+  # PR시 실행되도록
+  pull_request: 
+    # 실행 기준이 되는 브랜치
+    branches: dev
+  # GitHub Action에서 실행할 수 있도록
+  workflow_dispatch:
+
+# CI로 수행할 작업
+jobs:
+  test:
+      runs-on: ubuntu-latest
+      
+      steps:
+      # flutter 프로젝트 실행 관련
+      - uses: actions/checkout@v3
+      - uses: subosito/flutter-action@v2.3.0
+        with:
+          flutter-version: '2.10.4'
+          
+      # flutter 초기화
+      - name: Install packages
+        run: flutter pub get
+  
+      # Linter
+      - name: Linter
+        run: flutter analyze
+      
+      # 테스트 코드 실행
+      - name: Test
+        run: flutter test
+    
+  
+  
