@@ -6,7 +6,7 @@ on:
   # PR시 실행되도록
   pull_request: 
     # 실행 기준이 되는 브랜치
-    branches: dev
+    branches: main
   # GitHub Action에서 실행할 수 있도록
   workflow_dispatch:
 
