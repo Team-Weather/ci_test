@@ -12,7 +12,7 @@ on:
 
 # CI로 수행할 작업
 jobs:
-  test:
+  testCI:
       runs-on: ubuntu-latest
       
       steps:
