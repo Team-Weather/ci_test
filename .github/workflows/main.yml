@@ -14,6 +14,13 @@ jobs:
         with:
           flutter-version: 3.x
           
+      - name: Make dotenv
+        run: |
+          touch .env
+          echo "${{ secrets.ENV }}" > .env
+          ls
+        shell: bash
+        
       - name: Install packages
         run: flutter pub get
         
@@ -29,6 +36,13 @@ jobs:
         with:
           flutter-version: 3.x
           
+      - name: Make dotenv
+        run: |
+          touch .env
+          echo "${{ secrets.ENV }}" > .env
+          ls
+        shell: bash    
+        
       - name: Install packages
         run: flutter pub get
       
