@@ -4,7 +4,7 @@
 ## 너의 날씨는 팀 소개
 |[송윤지](https://github.com/somarok)|[장날아](https://github.com/NalaJang)|[전종현](https://github.com/hoogom88)|
 |:----:|:----:|:----:|
-|<img src = "https://github.com/Team-Weather/ci_test/assets/67893559/b0f747be-73da-4a74-ae45-28b71c1ee2db" height="200" width="170">|<img src = "https://github.com/Team-Weather/ci_test/assets/67893559/a393d6d3-cdcf-4d81-a039-02f76ef8b382" height="200" width="170">|<img src = "![전종현](https://github.com/Team-Weather/ci_test/assets/32134533/e7a2e682-c670-4077-aee3-4a12ab995ecb)" height="200" width="170">|
+|<img src = "https://github.com/Team-Weather/ci_test/assets/67893559/b0f747be-73da-4a74-ae45-28b71c1ee2db" height="200" width="170">|<img src = "https://github.com/Team-Weather/ci_test/assets/67893559/a393d6d3-cdcf-4d81-a039-02f76ef8b382" height="200" width="170">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/e7a2e682-c670-4077-aee3-4a12ab995ecb" height="200" width="170">|
 
 
 |[성종호](https://github.com/SeongJongHo)|[김동혁](https://github.com/KimDonghyeok)|[김민규](https://github.com/gyubit)|
