@@ -12,5 +12,6 @@
 
 - 앱 버전 1.0.0
 - 개발 환경 : Flutter 3.19.6, Dart 3.0, Android minSdk 24, Kotlin 1.7.10, Gradle 7.6.0
-- 라이브러리
-  
+- 라이브러리  
+  <img width="60%" src="https://github.com/Team-Weather/ci_test/assets/26239098/f274be3e-eafe-4190-b129-dd5e3857dc44">
+
