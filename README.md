@@ -3,12 +3,14 @@
 
 ## 너의 날씨는 팀 소개
 
-송윤지 팀장  
-장날아  
-전종현  
-성종호  
-김동혁  
-김민규  
+
+[송윤지](https://github.com/somarok) 팀장  
+[장날아](https://github.com/NalaJang)  
+[전종현](https://github.com/hoogom88)  
+[성종호](https://github.com/SeongJongHo)  
+[김동혁](https://github.com/KimDonghyeok)  
+[김민규](https://github.com/gyubit)  
+
 
 ## 앱 기획 의도
 
