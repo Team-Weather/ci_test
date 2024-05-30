@@ -3,7 +3,7 @@
 
 <h1>
   
-  [> 더 자세한 Weaco 개발 이야기..](https://github.com/Team-Weather/flutter-wea-co/wiki)
+  [👉 더 자세한 Weaco 개발 이야기..](https://github.com/Team-Weather/flutter-wea-co/wiki)
 
 </h1>
 
