@@ -33,3 +33,6 @@ https://github.com/Team-Weather/ci_test/assets/26239098/0c20e12d-5d6f-4779-a9bf-
 - 라이브러리  
   <img width="65%" src="https://github.com/Team-Weather/ci_test/assets/26239098/f274be3e-eafe-4190-b129-dd5e3857dc44">
 
+## 앱 전체 구조 / 아키텍처 이미지 
+
+![image](https://github.com/Team-Weather/ci_test/assets/90754590/cfa21382-ffa8-4015-b18e-3120aa640002)
