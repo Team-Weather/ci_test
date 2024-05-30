@@ -1,6 +1,22 @@
 # Weaco
 <img width="381" alt="image" src="https://github.com/Team-Weather/ci_test/assets/90754590/d632cb06-79dc-4f6e-9b5b-3114161424bd">
 
+## 팀장 소개
+
+송윤지(COO)
+
+## 팀원 소개
+
+장날아(CEO)
+
+전종현(CTO)
+
+~~성종호(PM)~~
+
+김동혁 😴 (숙직실)
+
+김민규 (前직원)
+
 ## 앱 기획 의도
 
 매일 날씨 확인, 옷 고민 하는데 시간 쏟기 귀찮았던 사람들이 모여서 ‘WeaCo’를 만들었습니다.
