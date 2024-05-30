@@ -17,16 +17,11 @@
 ## 서비스 소개
 유저의 현재 위치에 대한 날씨 정보 제공과 날씨를 기반으로 OOTD를 공유하는 서비스
 
-![sdf](https://github.com/Team-Weather/ci_test/blob/main/KakaoTalk_20240530_113059803.gif)  
-
-
-
 
 <div align="center">
   <video auto-play="true" loop="loop" src="https://github.com/Team-Weather/ci_test/assets/26239098/3686eee8-c8ea-4ecd-b839-fc54bf00cf7f" width="400" />
 </div>
 
-https://github.com/Team-Weather/ci_test/assets/26239098/0c20e12d-5d6f-4779-a9bf-84fdd94c56cb
 
 
 ## Configuration
