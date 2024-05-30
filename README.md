@@ -19,9 +19,8 @@
 
 
 <div align="center">
-  <video auto-play="true" loop="loop" src="https://github.com/Team-Weather/ci_test/assets/26239098/3686eee8-c8ea-4ecd-b839-fc54bf00cf7f" width="400" />
+  <video autoplay loop src="https://github.com/Team-Weather/ci_test/assets/26239098/9fa97cf6-5e85-4fdc-8166-12ff2a3f5b63" width="400" />
 </div>
-
 
 
 ## Configuration
