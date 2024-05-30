@@ -1,21 +1,14 @@
 # Weaco
 <img width="381" alt="image" src="https://github.com/Team-Weather/ci_test/assets/90754590/d632cb06-79dc-4f6e-9b5b-3114161424bd">
 
-## 팀장 소개
+## 너의 날씨는 팀 소개
 
-송윤지(COO)
-
-## 팀원 소개
-
-장날아(CEO)
-
-전종현(CTO)
-
-~~성종호(PM)~~
-
-김동혁 😴 (숙직실)
-
-김민규 (前직원)
+송윤지 팀장
+장날아
+전종현
+성종호
+김동혁
+김민규
 
 ## 앱 기획 의도
 
