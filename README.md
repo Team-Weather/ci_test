@@ -8,6 +8,8 @@
 ## 서비스 소개
 유저의 현재 위치에 대한 날씨 정보 제공과 날씨를 기반으로 OOTD를 공유하는 서비스
 
+![sdf](https://github.com/Team-Weather/ci_test/blob/main/KakaoTalk_20240530_113059803.gif)
+
 ## Configuration
 
 - 앱 버전 1.0.0
