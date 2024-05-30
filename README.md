@@ -1,6 +1,8 @@
 # Weaco
 <img width="381" alt="image" src="https://github.com/Team-Weather/ci_test/assets/90754590/d632cb06-79dc-4f6e-9b5b-3114161424bd">
 
+[더 자세한 Weaco 개발 이야기..](https://github.com/Team-Weather/flutter-wea-co/wiki)
+
 ## 너의 날씨는 팀 소개
 
 |[송윤지](https://github.com/somarok)|[장날아](https://github.com/NalaJang)|[전종현](https://github.com/hoogom88)|
