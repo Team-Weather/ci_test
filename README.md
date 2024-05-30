@@ -8,7 +8,6 @@
 |<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/8d3a4028-b02e-42fe-bfd4-080d6b0a774c" height="200" width="200">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/9b8743f5-ddbf-4ae9-bea2-33a64295e955" height="200" width="200">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/e7a2e682-c670-4077-aee3-4a12ab995ecb" height="200" width="200">|
 ![image]()
 
-/* https://github.com/Team-Weather/ci_test/assets/32134533/14a8f26b-a591-4338-b8cb-c29c0194273c */
 |[성종호](https://github.com/SeongJongHo)|[김동혁](https://github.com/KimDonghyeok)|[김민규](https://github.com/gyubit)|
 |:----:|:----:|:----:|
 |<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/18e0cc0f-fc3c-40b8-b163-8540fb16bcdc" height="200" width="200">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/42c7b8c5-c8bb-41ea-b74d-30d03076de8a" height="200" width="200">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/238e554a-7b88-4424-a124-d74318e65643" height="200" width="200">|
