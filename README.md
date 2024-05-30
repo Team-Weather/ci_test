@@ -4,13 +4,12 @@
 ## 너의 날씨는 팀 소개
 |[송윤지](https://github.com/somarok)|[장날아](https://github.com/NalaJang)|[전종현](https://github.com/hoogom88)|
 |:----:|:----:|:----:|
-|<img src = "https://github.com/Team-Weather/ci_test/assets/67893559/b0f747be-73da-4a74-ae45-28b71c1ee2db" height="200" width="170">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/9b8743f5-ddbf-4ae9-bea2-33a64295e955" height="200" width="170">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/e7a2e682-c670-4077-aee3-4a12ab995ecb" height="200" width="170">|
-![장날아](https://github.com/Team-Weather/ci_test/assets/32134533/9b8743f5-ddbf-4ae9-bea2-33a64295e955)
+|<img src = "https://github.com/Team-Weather/ci_test/assets/67893559/b0f747be-73da-4a74-ae45-28b71c1ee2db" height="200" width="170">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/9b8743f5-ddbf-4ae9-bea2-33a64295e955" height="200" width="170">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/e7a2e682-c670-4077-aee3-4a12ab995ecb" height="200" width="200">|
 
 
 |[성종호](https://github.com/SeongJongHo)|[김동혁](https://github.com/KimDonghyeok)|[김민규](https://github.com/gyubit)|
 |:----:|:----:|:----:|
-|<img src = "https://github.com/Team-Weather/ci_test/assets/67893559/57b36d68-acdd-4876-a720-0d706da1e318" height="200" width="170">|<img src = "https://github.com/Team-Weather/ci_test/assets/67893559/e1252223-fab7-459b-ad84-cc05b0cca219" height="200" width="170">|<img src = "https://user-images.githubusercontent.com/38002959/143966223-7c10b010-32a9-4fd5-b021-3a9764134318.png" height="200" width="170">|
+|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/14a8f26b-a591-4338-b8cb-c29c0194273c" height="200" width="170">|<img src = "https://github.com/Team-Weather/ci_test/assets/67893559/e1252223-fab7-459b-ad84-cc05b0cca219" height="200" width="170">|<img src = "https://user-images.githubusercontent.com/38002959/143966223-7c10b010-32a9-4fd5-b021-3a9764134318.png" height="200" width="200">|
 
 ## 앱 기획 의도
 
