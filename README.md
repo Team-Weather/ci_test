@@ -6,7 +6,6 @@
 |[송윤지](https://github.com/somarok)|[장날아](https://github.com/NalaJang)|[전종현](https://github.com/hoogom88)|
 |:----:|:----:|:----:|
 |<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/8d3a4028-b02e-42fe-bfd4-080d6b0a774c" height="200" width="200">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/9b8743f5-ddbf-4ae9-bea2-33a64295e955" height="200" width="200">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/e7a2e682-c670-4077-aee3-4a12ab995ecb" height="200" width="200">|
-![image]()
 
 |[성종호](https://github.com/SeongJongHo)|[김동혁](https://github.com/KimDonghyeok)|[김민규](https://github.com/gyubit)|
 |:----:|:----:|:----:|
