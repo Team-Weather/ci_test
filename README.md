@@ -8,6 +8,8 @@
 </h1>
 
 ## 너의 날씨는 팀 소개
+<p style="text-align: center;>
+
 
 |[송윤지](https://github.com/somarok)|[장날아](https://github.com/NalaJang)|[전종현](https://github.com/hoogom88)|
 |:----:|:----:|:----:|
@@ -16,6 +18,10 @@
 |[성종호](https://github.com/SeongJongHo)|[김동혁](https://github.com/KimDonghyeok)|[김민규](https://github.com/gyubit)|
 |:----:|:----:|:----:|
 |<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/18e0cc0f-fc3c-40b8-b163-8540fb16bcdc" height="200" width="200">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/42c7b8c5-c8bb-41ea-b74d-30d03076de8a" height="200" width="200">|<img src = "https://github.com/Team-Weather/ci_test/assets/32134533/238e554a-7b88-4424-a124-d74318e65643" height="200" width="200">|
+
+  
+</p>
+
 
 ## 앱 기획 의도
 
