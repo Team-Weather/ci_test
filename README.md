@@ -35,3 +35,9 @@
 ## 앱 전체 구조 / 아키텍처 이미지 
 
 ![image](https://github.com/Team-Weather/ci_test/assets/90754590/cfa21382-ffa8-4015-b18e-3120aa640002)
+
+<br></br>
+
+## 전체 플로우 차트
+
+![image](https://github.com/Team-Weather/ci_test/assets/73895803/e532d7cd-999f-4451-9f18-83f9e7248f77)
